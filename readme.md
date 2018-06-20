@@ -10,7 +10,8 @@ being a number starting from 0, representing an object in the map.
 Maps are 2D square grids.
 
 0 = Empty space
-1 - Whatever = Block/wall with certain color or texture
+
+1 - Positive integers = Block/wall with certain color or texture
 
 The engine will be able to load map files (.volkmap extensions).
 
