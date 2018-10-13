@@ -1,6 +1,6 @@
 # Volk Raycasting Tech Demo
 
-** This project is currently on haitus **
+**This project is currently on haitus**
 
 Volk is an HTML5 raycasting tech demo using pure JavaScript and canvas.
 
